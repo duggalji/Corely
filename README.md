@@ -232,11 +232,11 @@ Twitter / x - [@0xAquaWolf](https://twitter.com/0xAquaWolf)
 
 ## Star History
 
-<a href="https://star-history.com/#0xAquaWolf/portfolio&Date">
+<a href="https://star-history.com/#harshitduggal1/portfolio&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=0xAquaWolf/portfolio&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=harshitduggal1/portfolio&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=harshitduggal1/portfolio&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=harshitduggal1/portfolio&type=Date" />
  </picture>
 </a>
 
